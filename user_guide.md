@@ -9,7 +9,7 @@ This guide includes:
 * [Sliders](#sliders)
 * [Walkthrough](#walkthrough)
 
-Looking for how the EPA determined each state's goals? Click [here](https://github.com/mycpp/myCPP/wiki/How-does-EPA-arrive-at-the-CPP%E2%80%99s-2030-State-Goals%3F) for an explanation and example.
+Looking for how the EPA determined each state's goals? Click [here](https://mycpp.gitbooks.io/tool/content/how_does_the_epa_arrive_at_the_2030_goal.html) for an explanation and example.
 
 ##State Selection##
 
