@@ -1,6 +1,6 @@
 # myCPP Tool User Guide
 
-Welcome to the guide, we'll walk you through the steps to using the myCPP tool.
+Welcome to the guide, we'll walk you through the steps to using the [myCPP tool](https://bccpp.shinyapps.io/mycpp/).
 
 This guide includes:
 * [State Selection](#state-selection)
