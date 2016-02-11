@@ -1,6 +1,6 @@
-# Welcome to the Tool User Guide
+# myCPP Tool User Guide
 
-We'll walk you through the steps to using our tool.
+Welcome to the guide, we'll walk you through the steps to using the myCPP tool.
 
 This guide includes:
 * [State Selection](#state-selection)
