@@ -1,6 +1,6 @@
 # Welcome to the myCPP Tool Gitbook
 
-This guide aims to help you to use our myCPP tool. The myCPP tool aims to help stakeholders and interested citizens alike to understand the implications for states to meet their state's individual Clean Power Plan goal.
+This guide aims to help you to use our [myCPP tool](https://bccpp.shinyapps.io/mycpp/). The myCPP tool aims to help stakeholders and interested citizens alike to understand the implications for states to meet their state's individual Clean Power Plan goal.
 
 ## About
 The University of Tennessee Bredesen Center and the University of Tennessee Nuclear Engineering department have undergone a multi-year collaborative effort to evaluate the EPA's Clean Power Plan (CPP) for its accuracy and fair treatment of all energy sources. The Bredesen Center has developed a publication to summarize inconsistencies found within the CPP. The final submission of the CPP draft by the EPA addressed a majority of the publication’s outlined concerns.
