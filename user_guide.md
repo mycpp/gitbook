@@ -17,7 +17,7 @@ The user selects which state to work with.
 
 ![](https://raw.githubusercontent.com/mycpp/myCPP/master/documentation/screenshots/media%20for%20wiki/image1.png)
 
-[(return to the top)](#welcome-to-the-tool-user-guide)
+[(return to the top)](#mycpp-tool-user-guide)
 ##Map##
 
 All electricity generating units (EGUs) are shown and color-coded based on their technology.
@@ -40,7 +40,8 @@ Carbon Emissions (tons of CO<sub>2</sub>) map:
 
 ![](https://raw.githubusercontent.com/mycpp/myCPP/master/documentation/screenshots/media%20for%20wiki/image6.png)
 
-[(return to the top)](#welcome-to-the-tool-user-guide)
+[(return to the top)](#mycpp-tool-user-guide)
+
 ##CO<sub>2</sub> Emissions Graph##
 
 The selected state’s 2012 CO<sub>2</sub> emissions total is shown in gray, and the potential CO<sub>2</sub> emissions total based on adjusted sliders is shown in orange. The state’s goal per the CPP is indicated using a red line.
@@ -55,7 +56,8 @@ The mass-based CPP compliance calculations are based on tons of CO<sub>2</sub> e
 
 ![](https://raw.githubusercontent.com/mycpp/myCPP/master/documentation/screenshots/media%20for%20wiki/image8.png)
 
-[(return to the top)](#welcome-to-the-tool-user-guide)
+[(return to the top)](#mycpp-tool-user-guide)
+
 ##Sliders:##
 
 Adjusting each energy generation source slider left or right changes three percentages: the percentage of the user’s state’s 2030 consumer demand met, the percentage of the selected state’s rate-based compliance to the EPA Clean Power Plan, and the percentage of the selected state’s mass-based compliance to the EPA Clean Power Plan. The goal is for all percentages to reach 100%.
@@ -78,7 +80,8 @@ Capacity Reductions allow the user to determine which energy sources may be decr
 
 ![](https://raw.githubusercontent.com/mycpp/myCPP/master/documentation/screenshots/media%20for%20wiki/image12.png)
 
-[(return to the top)](#welcome-to-the-tool-user-guide)
+[(return to the top)](#mycpp-tool-user-guide)
+
 ##Walkthrough##
 
 Select your state.
@@ -123,4 +126,4 @@ With adjustments:
 
 Note the combination of energy generation source changes that get your state closest to 100% achieved in both goals.
 
-[(return to the top)](#welcome-to-the-tool-user-guide)
+[(return to the top)](#mycpp-tool-user-guide)
